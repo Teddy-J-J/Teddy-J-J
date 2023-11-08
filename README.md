@@ -1,5 +1,10 @@
-💼   Full Stack Developer at Topflight
+Senior Full Stack Developer
 
-🌱   I’m currently using and mastering React & Angular 8+ for frontend and for the backend Node.js & Django & Flask (Python)
-
-📫   Email me at teddyjohns0212@gmail.com
+🌱 React / AngularJS / Next / razzle
+🌱 Tailwind / Bootstrap / Material-UI / Ant design
+🌱 Node / Express / Nest / Koa
+🌱 Python / Django / Flask / SciPy / NumPy / Pandas
+🌱 Java / Spring Boot / Struts
+🌱 AWS / EC2 / Lambda / Cloud Formation
+🌱 Jest / Jasmine / Cypress / JUnit / PyTest
+🌱 Blockchain / Solidity / Smart Contract
